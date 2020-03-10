@@ -2,10 +2,10 @@ import React from 'react';
 import {
     ActivityIndicator,
     Alert,
-    Image, 
-    StatusBar, 
+    Image,
+    StatusBar,
     StyleSheet,
-    ScrollView, 
+    ScrollView,
     Text, 
     TextInput, 
     TouchableOpacity, 
